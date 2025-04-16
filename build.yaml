@@ -1,4 +1,4 @@
-image: ghcr.io/my-smart-homes/{machine}-my-smart-homes
+image: ghcr.io/smart-building-manager/{machine}-my-smart-homes
 build_from:
   aarch64: scratch
   armv7: scratch
